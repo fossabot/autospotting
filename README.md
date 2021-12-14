@@ -12,6 +12,7 @@
 [![ChatOnGitter](https://badges.gitter.im/cristim/autospotting.svg)](https://gitter.im/cristim/autospotting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Open Source Helpers](https://www.codetriage.com/cristim/autospotting/badges/users.svg)](https://www.codetriage.com/cristim/autospotting)
 [![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/cristim/overview)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flenucksi%2Fautospotting.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flenucksi%2Fautospotting?ref=badge_shield)
 
 A simple and easy to use tool designed to significantly lower your Amazon AWS
 costs by automating the use of [spot](https://aws.amazon.com/ec2/spot)
@@ -130,6 +131,9 @@ For more detailed information you can read this [document](START.md)
   `spot-enabled` tag set to `false`. This can be very useful for large scale
   Enterprise rollouts against lots of AWS accounts, where you can migrate to
   spot with minimal buy-in or effort from the account maintainers.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flenucksi%2Fautospotting.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flenucksi%2Fautospotting?ref=badge_large)
 
 ## Support ##
 
